@@ -1,21 +1,15 @@
-# 💫 About Me:
-👩‍💻 I'm Aanya Kanwar, a third-year CSE student passionate about Artificial Intelligence, Machine Learning, and Data Science.
-
-🔭 I'm currently building AI-powered projects and improving my problem-solving and development skills.
-
-🤝 I'm actively looking to collaborate on impactful AI/ML projects and open-source contributions.
-
-🛠️ I'm seeking guidance in advanced machine learning, real-world deployment, and system design.
-
-🌱 Currently learning Data Structures & Algorithms, Machine Learning, and backend development (Spring Boot / Flask).
-
-💬 Ask me about Java, Python, DBMS, and how to get started with AI/ML projects.
-
-⚡ Fun fact: I enjoy building projects that combine AI with real-world applications.
+About Me:
+I'm Aanya Kanwar, a third-year CSE student passionate about Artificial Intelligence, Machine Learning, and Data Science.
+I'm currently building AI-powered projects and improving my problem-solving and development skills.
+I'm actively looking to collaborate on impactful AI/ML projects and open-source contributions.
+I'm seeking guidance in advanced machine learning, real-world deployment, and system design.
+Currently learning Data Structures & Algorithms, Machine Learning, and backend development (Spring Boot / Flask).
+Ask me about Java, Python, DBMS, and how to get started with AI/ML projects.
+Fun fact I enjoy building projects that combine AI with real-world applications.
 
 ---
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kanwaraanyaa) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aanyakanwar-024539329) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/aanyakanwarr) 
@@ -23,7 +17,7 @@
 
 ---
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,7 +33,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kanwaraanyaa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kanwaraanyaa&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanwaraanyaa&theme=tokyonight&hide_border=true&layout=compact)
